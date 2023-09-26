@@ -1,7 +1,7 @@
 {
   "name": "noteapp",
   "version": "0.1.0",
-  "homepage": "https://bhagyesh8877.github.io/noteapp",
+  "homepage": "https://bhagyesh8877.github.io/NoteApp/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
